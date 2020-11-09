@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 Hi I am main
 MAin
-=======
 Hi 
 Dev
->>>>>>> dev
+
